@@ -8,7 +8,7 @@ This project was created as part of a web development assignment to practice sem
 ## Live link
 
 🔗 Live Project 👇  
-[HTML Resume Page]()
+[HTML Resume Page](https://html-resume-page.onrender.com)
 
 ## Demo
 
