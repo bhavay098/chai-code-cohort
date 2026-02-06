@@ -5,7 +5,7 @@ The goal was to recreate the layout, typography, spacing, and overall look as cl
 
 ---
 
-## 🔗 Original Curson Website
+## 🔗 Original Cursor Website
 https://cursor.com/
 
 ## 🔗 Project Live Link
