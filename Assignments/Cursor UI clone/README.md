@@ -9,7 +9,7 @@ The goal was to recreate the layout, typography, spacing, and overall look as cl
 https://cursor.com/
 
 ## 🔗 Project Live Link
-
+https://cursor-ui-clone.netlify.app/
 
 ---
 
