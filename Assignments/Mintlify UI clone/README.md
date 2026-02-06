@@ -10,7 +10,7 @@ The purpose of this project was to practice building a real-world UI layout by r
 https://www.mintlify.com
 
 ## 🔗 Project Live Link
-
+https://mintlify-ui-clone.netlify.app
 
 ## 📌 Sections Recreated
 
