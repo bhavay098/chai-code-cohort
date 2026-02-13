@@ -3,22 +3,22 @@
 <h1 align="center">Web Dev Cohort 2026 🚀</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavaynagpal1/">
+  <a href="https://www.linkedin.com/in/bhavaynagpal1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/BhavayNagpal1">
+  <a href="https://x.com/BhavayNagpal1" target="_blank">
     <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/bhavay098">
+  <a href="https://github.com/bhavay098" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@bhavaynagpal000">
+  <a href="https://medium.com/@bhavaynagpal000" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@Bhavay25">
+  <a href="https://hashnode.com/@Bhavay25" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="mailto:bhavaynagpal4@gmail.com">
+  <a href="mailto:bhavaynagpal4@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
