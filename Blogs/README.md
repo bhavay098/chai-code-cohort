@@ -25,3 +25,7 @@
 ## 12. [Emmet for HTML](https://bhavay.hashnode.dev/emmet-for-html)
 
 ## 13. [How a Browser Works](https://bhavay.hashnode.dev/how-a-browser-works)
+
+## 14. [Variables and Data Types in JavaScript](https://bhavay.hashnode.dev/variables-and-data-types-in-javascript)
+
+## 15. [Understanding Objects in JavaScript](https://bhavay.hashnode.dev/understanding-objects-in-javascript)
