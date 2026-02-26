@@ -29,3 +29,5 @@
 ## 14. [Variables and Data Types in JavaScript](https://bhavay.hashnode.dev/variables-and-data-types-in-javascript)
 
 ## 15. [Understanding Objects in JavaScript](https://bhavay.hashnode.dev/understanding-objects-in-javascript)
+
+## 16. [Understanding Arrays in JavaScript](https://bhavay.hashnode.dev/understanding-arrays-in-javascript)
