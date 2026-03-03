@@ -33,3 +33,5 @@
 ## 16. [Understanding Arrays in JavaScript](https://bhavay.hashnode.dev/understanding-arrays-in-javascript)
 
 ## 17. [Array Methods You Must Know in JavaScript](https://bhavay.hashnode.dev/array-methods-you-must-know-in-javascript)
+
+## 18. [Understanding JavaScript Operators from Scratch](https://bhavay.hashnode.dev/understanding-javascript-operators-from-scratch)
