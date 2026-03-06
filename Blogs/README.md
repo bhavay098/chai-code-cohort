@@ -35,3 +35,5 @@
 ## 17. [Array Methods You Must Know in JavaScript](https://bhavay.hashnode.dev/array-methods-you-must-know-in-javascript)
 
 ## 18. [Understanding JavaScript Operators from Scratch](https://bhavay.hashnode.dev/understanding-javascript-operators-from-scratch)
+
+## 19. [Control Flow in JavaScript: Understanding if, else, and switch](https://bhavay.hashnode.dev/control-flow-in-javascript-understanding-if-else-and-switch)
