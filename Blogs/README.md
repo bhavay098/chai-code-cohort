@@ -37,3 +37,5 @@
 ## 18. [Understanding JavaScript Operators from Scratch](https://bhavay.hashnode.dev/understanding-javascript-operators-from-scratch)
 
 ## 19. [Control Flow in JavaScript: Understanding if, else, and switch](https://bhavay.hashnode.dev/control-flow-in-javascript-understanding-if-else-and-switch)
+
+## 20. [Understanding Object-Oriented Programming in JavaScript](https://bhavay.hashnode.dev/understanding-object-oriented-programming-in-javascript)
