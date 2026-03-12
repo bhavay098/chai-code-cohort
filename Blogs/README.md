@@ -39,3 +39,5 @@
 ## 19. [Control Flow in JavaScript: Understanding if, else, and switch](https://bhavay.hashnode.dev/control-flow-in-javascript-understanding-if-else-and-switch)
 
 ## 20. [Understanding Object-Oriented Programming in JavaScript](https://bhavay.hashnode.dev/understanding-object-oriented-programming-in-javascript)
+
+## 21. [Function Declaration vs Function Expression in JavaScript: What’s the Difference?](https://bhavay.hashnode.dev/function-declaration-vs-function-expression-in-javascript-what-s-the-difference)
