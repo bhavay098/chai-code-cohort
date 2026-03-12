@@ -41,3 +41,5 @@
 ## 20. [Understanding Object-Oriented Programming in JavaScript](https://bhavay.hashnode.dev/understanding-object-oriented-programming-in-javascript)
 
 ## 21. [Function Declaration vs Function Expression in JavaScript: What’s the Difference?](https://bhavay.hashnode.dev/function-declaration-vs-function-expression-in-javascript-what-s-the-difference)
+
+## 22. [Arrow Functions in JavaScript](https://bhavay.hashnode.dev/arrow-functions-in-javascript)
