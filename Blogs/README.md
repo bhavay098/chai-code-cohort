@@ -43,3 +43,5 @@
 ## 21. [Function Declaration vs Function Expression in JavaScript: What’s the Difference?](https://bhavay.hashnode.dev/function-declaration-vs-function-expression-in-javascript-what-s-the-difference)
 
 ## 22. [Arrow Functions in JavaScript](https://bhavay.hashnode.dev/arrow-functions-in-javascript)
+
+## 23. [The Magic of this, call(), apply(), and bind() in JavaScript](https://bhavay.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript)
