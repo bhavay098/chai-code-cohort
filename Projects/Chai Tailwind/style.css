@@ -58,6 +58,15 @@ body {
     line-height: 1;
 }
 
+#chai {
+    font-family: "poppins", sans-serif;
+    font-size: 32px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 600;
+    line-height: 1;
+}
+
 .logo-sub {
     font-family: "Space Mono", monospace;
     font-size: 10px;
