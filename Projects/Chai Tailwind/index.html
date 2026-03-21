@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>☕ Chai CSS — Mini Tailwind</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600&family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="logo-mark">ChaiCode</div>
+      <div class="logo-sub">CSS v1.0</div>
+      <div class="header-badge">☕ mini tailwind</div>
+    </header>
+
+    <!-- HERO -->
+    <div class="hero">
+      <div class="hero-eyebrow">// your own utility CSS engine</div>
+      <h1 class="hero-title">
+        Hello <span>World</span><br />with chai-talwinder ☕
+      </h1>
+      <p class="hero-desc">
+        A mini Tailwind clone. Add
+        <code
+          style="
+            background: #1c1c1c;
+            color: #fb923c;
+            padding: 2px 7px;
+            border-radius: 4px;
+            font-family: &quot;Space Mono&quot;, monospace;
+            font-size: 12px;
+            border: 1px solid #2a2a2a;
+          "
+          >chai-</code
+        >
+        classes to any element and the script applies inline CSS dynamically —
+        just like Tailwind does.
+      </p>
+    </div>
+
+    <!-- DEMO SECTION -->
+    <div class="demo-section">
+      <div class="section-label">Live Demo — classes applied by the script</div>
+      <div class="preview-card">
+        <div class="preview-bar">
+          <div class="dot dot-red"></div>
+          <div class="dot dot-yellow"></div>
+          <div class="dot dot-green"></div>
+          <span
+            style="
+              font-family: &quot;Space Mono&quot;, monospace;
+              font-size: 10px;
+              color: #4a4540;
+              margin-left: 8px;
+            "
+            >index.html</span
+          >
+        </div>
+        <div class="preview-body">
+          <!-- Required h1 with chai-p-2 class + inline style applied by script -->
+          <h1
+            class="chai-p-2 chai-text-2xl chai-font-bold chai-text-white chai-bg-orange chai-rounded-lg chai-text-center chai-shadow-lg chai-letter-wide"
+            style="margin-bottom: 12px"
+          >
+            Hello World ☕
+          </h1>
+
+          <p
+            class="chai-p-3 chai-text-sm chai-bg-light chai-rounded chai-border chai-text-dark chai-italic"
+            style="margin-bottom: 12px"
+          >
+            This paragraph also uses chai classes — try adding your own below!
+          </p>
+
+          <div class="chai-flex chai-gap-2 chai-m-top-2">
+            <span
+              class="chai-p-2 chai-bg-orange chai-text-white chai-rounded-full chai-text-xs chai-font-bold"
+              >chai-p-2</span
+            >
+            <span
+              class="chai-p-2 chai-bg-dark chai-text-white chai-rounded-full chai-text-xs chai-font-bold"
+              >chai-rounded-full</span
+            >
+            <span
+              class="chai-p-2 chai-border-orange chai-rounded-full chai-text-xs chai-font-bold chai-text-orange"
+              >chai-shadow-lg</span
+            >
+          </div>
+        </div>
+      </div>
+
+      <!-- Classes Reference Grid -->
+      <div class="section-label">All Available Classes (35+)</div>
+      <div class="classes-grid">
+        <div class="class-category">
+          <div class="category-header">📦 Padding</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-p-1</span
+              ><span class="class-value">4px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-p-2</span
+              ><span class="class-value">8px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-p-3</span
+              ><span class="class-value">12px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-p-4</span
+              ><span class="class-value">16px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-p-6</span
+              ><span class="class-value">24px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-p-8</span
+              ><span class="class-value">32px</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">↔️ Margin</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-m-1</span
+              ><span class="class-value">4px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-m-2</span
+              ><span class="class-value">8px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-m-4</span
+              ><span class="class-value">16px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-m-auto</span
+              ><span class="class-value">auto</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-m-top-2</span
+              ><span class="class-value">marginTop 8px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-m-top-3</span
+              ><span class="class-value">marginTop 12px</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">🔤 Font Size</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-text-xs</span
+              ><span class="class-value">12px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-sm</span
+              ><span class="class-value">14px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-base</span
+              ><span class="class-value">16px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-lg</span
+              ><span class="class-value">20px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-xl</span
+              ><span class="class-value">24px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-2xl</span
+              ><span class="class-value">32px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-3xl</span
+              ><span class="class-value">48px</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">🎨 Text Color</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-text-white</span
+              ><span class="class-value">#ffffff</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-black</span
+              ><span class="class-value">#000000</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-dark</span
+              ><span class="class-value">#1a1008</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-gray</span
+              ><span class="class-value">#6b7280</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-orange</span
+              ><span class="class-value">#f97316</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-red</span
+              ><span class="class-value">#ef4444</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-green</span
+              ><span class="class-value">#22c55e</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-blue</span
+              ><span class="class-value">#3b82f6</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">🖌️ Background</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-bg-orange</span
+              ><span class="class-value">#f97316</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-dark</span
+              ><span class="class-value">#1a1008</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-light</span
+              ><span class="class-value">#fff7ed</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-white</span
+              ><span class="class-value">#ffffff</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-blue</span
+              ><span class="class-value">#3b82f6</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-green</span
+              ><span class="class-value">#22c55e</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-red</span
+              ><span class="class-value">#ef4444</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-bg-gray</span
+              ><span class="class-value">#f3f4f6</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">🔲 Border & Radius</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-border</span
+              ><span class="class-value">1px solid</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-border-2</span
+              ><span class="class-value">2px solid</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-border-orange</span
+              ><span class="class-value">2px orange</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-rounded</span
+              ><span class="class-value">6px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-rounded-lg</span
+              ><span class="class-value">12px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-rounded-xl</span
+              ><span class="class-value">20px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-rounded-full</span
+              ><span class="class-value">9999px</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">✨ Effects</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-shadow</span
+              ><span class="class-value">small shadow</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-shadow-lg</span
+              ><span class="class-value">large shadow</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-opacity-50</span
+              ><span class="class-value">0.5</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-italic</span
+              ><span class="class-value">italic</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-underline</span
+              ><span class="class-value">underline</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-letter-wide</span
+              ><span class="class-value">2px spacing</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-uppercase</span
+              ><span class="class-value">UPPERCASE</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="class-category">
+          <div class="category-header">📐 Layout & Size</div>
+          <div class="class-list">
+            <div class="class-item">
+              <span class="class-name">chai-flex</span
+              ><span class="class-value">display flex</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-gap-2</span
+              ><span class="class-value">gap 8px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-gap-4</span
+              ><span class="class-value">gap 16px</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-w-full</span
+              ><span class="class-value">width 100%</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-w-half</span
+              ><span class="class-value">width 50%</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-text-center</span
+              ><span class="class-value">center</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-hidden</span
+              ><span class="class-value">display none</span>
+            </div>
+            <div class="class-item">
+              <span class="class-name">chai-cursor-pointer</span
+              ><span class="class-value">pointer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Playground -->
+      <div class="section-label">
+        🧪 Live Playground — type classes and apply
+      </div>
+      <div class="playground">
+        <div class="playground-header">
+          <strong>TRY IT</strong>
+          <span>→ type chai- classes below, hit Apply</span>
+        </div>
+        <div class="playground-body">
+          <div class="pg-input-side">
+            <div class="pg-label">Enter classes (space-separated)</div>
+            <textarea
+              id="pg-classes"
+              placeholder="e.g. chai-p-4 chai-bg-orange chai-text-white chai-rounded-lg chai-shadow-lg"
+            ></textarea>
+            <div class="pg-label" style="margin-top: 14px">Enter text</div>
+            <input id="pg-text" type="text" value="Hello World ☕" />
+            <button class="apply-btn" onclick="applyPlayground()">
+              Apply Classes →
+            </button>
+          </div>
+          <div class="pg-output-side">
+            <div class="pg-label">Output preview</div>
+            <div id="pg-output">
+              <p
+                id="pg-preview"
+                class="chai-p-2 chai-bg-orange chai-text-white chai-rounded chai-text-center"
+              >
+                Hello World ☕
+              </p>
+            </div>
+            <div
+              style="
+                margin-top: 12px;
+                font-family: &quot;Space Mono&quot;, monospace;
+                font-size: 10px;
+                color: #3d3830;
+              "
+              id="pg-applied-log"
+            >
+              // applied styles will appear here
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      ☕ Chai CSS — built with vanilla JS · DOM-powered · no dependencies
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
