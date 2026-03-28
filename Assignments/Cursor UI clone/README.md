@@ -67,17 +67,3 @@ All colors were managed using CSS variables inside `:root`.
 - CSS3 (Flexbox + Grid)
 
 No external libraries or frameworks were used.
-
----
-
-## 📸 Screenshots (Final Output)
-
-(Add screenshots of your final UI output here)
-
-Example:
-
-![Homepage Screenshot](./Assets/img/screenshot.png)
-
----
-
-
