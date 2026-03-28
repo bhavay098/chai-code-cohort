@@ -21,3 +21,4 @@
 
 - ### [Assignments](https://github.com/bhavay098/chai-code-cohort/tree/main/Assignments)
 - ### [Blogs](https://github.com/bhavay098/chai-code-cohort/tree/main/Blogs)
+- ### [Projects](https://github.com/bhavay098/chai-code-cohort/tree/main/Projects)
