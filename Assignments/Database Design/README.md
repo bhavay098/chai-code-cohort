@@ -1,4 +1,5 @@
 # 🛍️ Instagram Thrift Store – ERD
+![Alt Text](./Instagram%20Thrift%20Creator%20Store.png)
 
 ## 📌 Overview
 
