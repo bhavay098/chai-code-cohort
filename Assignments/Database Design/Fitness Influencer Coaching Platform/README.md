@@ -2,15 +2,11 @@
 
 ![Fitness Influencer Coaching Platform](./diagram-export-07-04-2026-19_55_31.png)
 
----
-
 ## 📌 Overview
 
 A relational database design for an online fitness coaching platform where trainers manage clients, offer plans, conduct sessions, and track progress.
 
 The system supports plan purchases, session bookings, subscriptions, payments, and client progress tracking.
-
----
 
 ## 🧱 Core Tables
 
@@ -25,8 +21,6 @@ The system supports plan purchases, session bookings, subscriptions, payments, a
 * **ProgressLogs** → client progress tracking  
 * **Payments** → transaction records  
 
----
-
 ## 🔗 Relationships
 
 * Trainer → Clients (1:N)  
@@ -38,8 +32,6 @@ The system supports plan purchases, session bookings, subscriptions, payments, a
 * Plans → PlansBought (1:N)  
 * Sessions → BookedSessions (1:N)  
 * Subscriptions → SubscriptionsBought (1:N)  
-
----
 
 ## ⚙️ Key Features
 

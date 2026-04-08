@@ -6,8 +6,6 @@
 A relational database design for an Instagram-based thrift & handmade store.
 It supports products with variants, inventory tracking, orders, payments, and shipping.
 
----
-
 ## 🧱 Core Tables
 
 * **Customers** → user details
@@ -19,8 +17,6 @@ It supports products with variants, inventory tracking, orders, payments, and sh
 * **Payment** → payment records
 * **Shipping** → delivery details
 
----
-
 ## 🔗 Relationships
 
 * Customer → Orders (1:N)
@@ -29,3 +25,11 @@ It supports products with variants, inventory tracking, orders, payments, and sh
 * Orders → OrderItems (1:N)
 * Orders → Payment (1:N)
 * Orders → Shipping (1:1)
+
+## ⚙️ Key Features
+
+* Supports product variations (size, color, condition) using a separate ProductDetails table
+* Inventory is tracked at the variation level for accurate stock management
+* Allows multiple items per order with price captured at purchase time
+* Flexible order lifecycle with multiple statuses (processing → delivered)
+* Payment system supports multiple methods including UPI, net banking, and COD
