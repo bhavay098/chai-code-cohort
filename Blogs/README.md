@@ -45,3 +45,5 @@
 ## 22. [Arrow Functions in JavaScript](https://bhavay.hashnode.dev/arrow-functions-in-javascript)
 
 ## 23. [The Magic of this, call(), apply(), and bind() in JavaScript](https://bhavay.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript)
+
+## 24. [JavaScript Modules: Import and Export Explained](https://bhavay.hashnode.dev/javascript-modules-import-and-export-explained)
