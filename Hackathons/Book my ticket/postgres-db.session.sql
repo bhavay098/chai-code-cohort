@@ -1,0 +1,14 @@
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  email VARCHAR(255) UNIQUE NOT NULL,
+  password TEXT NOT NULL,
+  refresh_token TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE seats (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255),
+  isbooked INT DEFAULT 0,
+  user_id INT REFERENCES users(id)
+);
