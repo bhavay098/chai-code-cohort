@@ -49,3 +49,5 @@
 ## 24. [JavaScript Modules: Import and Export Explained](https://bhavay.hashnode.dev/javascript-modules-import-and-export-explained)
 
 ## 25. [Template Literals in JavaScript](https://bhavay.hashnode.dev/template-literals-in-javascript)
+
+## 25. [Array Flattening in JavaScript](https://bhavay.hashnode.dev/array-flattening-in-javascript)
