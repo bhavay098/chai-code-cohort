@@ -50,4 +50,6 @@
 
 ## 25. [Template Literals in JavaScript](https://bhavay.hashnode.dev/template-literals-in-javascript)
 
-## 25. [Array Flattening in JavaScript](https://bhavay.hashnode.dev/array-flattening-in-javascript)
+## 26. [Array Flattening in JavaScript](https://bhavay.hashnode.dev/array-flattening-in-javascript)
+
+## 27. [Callbacks in JavaScript: Why They Exist](https://bhavay.hashnode.dev/callbacks-in-javascript-why-they-exist)
