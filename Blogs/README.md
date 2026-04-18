@@ -57,3 +57,5 @@
 ## 28. [The new Keyword in JavaScript](https://bhavay.hashnode.dev/the-new-keyword-in-javascript)
 
 ## 29. [String Polyfills and Common Interview Methods in JavaScript](https://bhavay.hashnode.dev/string-polyfills-and-common-interview-methods-in-javascript)
+
+## 30. [Spread vs Rest Operators in JavaScript](https://bhavay.hashnode.dev/spread-vs-rest-operators-in-javascript)
