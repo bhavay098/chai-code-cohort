@@ -55,3 +55,5 @@
 ## 27. [Callbacks in JavaScript: Why They Exist](https://bhavay.hashnode.dev/callbacks-in-javascript-why-they-exist)
 
 ## 28. [The new Keyword in JavaScript](https://bhavay.hashnode.dev/the-new-keyword-in-javascript)
+
+## 29. [String Polyfills and Common Interview Methods in JavaScript](https://bhavay.hashnode.dev/string-polyfills-and-common-interview-methods-in-javascript)
