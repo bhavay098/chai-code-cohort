@@ -11,6 +11,6 @@ export function auth(req, res, next) {
     req.user = decoded;
     next();
   } catch {
-    ApiError.unauthorized("Invalid token");
+    throw ApiError.unauthorized("Invalid token");
   }
 }
