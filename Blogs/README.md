@@ -61,3 +61,5 @@
 ## 30. [Spread vs Rest Operators in JavaScript](https://bhavay.hashnode.dev/spread-vs-rest-operators-in-javascript)
 
 ## 31. [Error Handling in JavaScript](https://bhavay.hashnode.dev/error-handling-in-javascript)
+
+## 32. [Async/Await in JavaScript](https://bhavay.hashnode.dev/async-await-in-javascript)
