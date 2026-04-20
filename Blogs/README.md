@@ -63,3 +63,5 @@
 ## 31. [Error Handling in JavaScript](https://bhavay.hashnode.dev/error-handling-in-javascript)
 
 ## 32. [Async/Await in JavaScript](https://bhavay.hashnode.dev/async-await-in-javascript)
+
+## 33. [Synchronous vs Asynchronous JavaScript](https://bhavay.hashnode.dev/synchronous-vs-asynchronous-javascript)
