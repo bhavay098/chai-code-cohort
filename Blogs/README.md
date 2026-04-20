@@ -59,3 +59,5 @@
 ## 29. [String Polyfills and Common Interview Methods in JavaScript](https://bhavay.hashnode.dev/string-polyfills-and-common-interview-methods-in-javascript)
 
 ## 30. [Spread vs Rest Operators in JavaScript](https://bhavay.hashnode.dev/spread-vs-rest-operators-in-javascript)
+
+## 31. [Error Handling in JavaScript](https://bhavay.hashnode.dev/error-handling-in-javascript)
