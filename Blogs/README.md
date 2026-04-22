@@ -67,3 +67,5 @@
 ## 33. [Synchronous vs Asynchronous JavaScript](https://bhavay.hashnode.dev/synchronous-vs-asynchronous-javascript)
 
 ## 34. [Inside the Linux File System](https://bhavay.hashnode.dev/inside-the-linux-file-system)
+
+## 35. [JavaScript Promises](https://bhavay.hashnode.dev/javascript-promises)
