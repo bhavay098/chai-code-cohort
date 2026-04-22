@@ -69,3 +69,5 @@
 ## 34. [Inside the Linux File System](https://bhavay.hashnode.dev/inside-the-linux-file-system)
 
 ## 35. [JavaScript Promises](https://bhavay.hashnode.dev/javascript-promises)
+
+## 36. [Destructuring in JavaScript](https://bhavay.hashnode.dev/destructuring-in-javascript)
