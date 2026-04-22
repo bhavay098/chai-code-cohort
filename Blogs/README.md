@@ -65,3 +65,5 @@
 ## 32. [Async/Await in JavaScript](https://bhavay.hashnode.dev/async-await-in-javascript)
 
 ## 33. [Synchronous vs Asynchronous JavaScript](https://bhavay.hashnode.dev/synchronous-vs-asynchronous-javascript)
+
+## 34. [Inside the Linux File System](https://bhavay.hashnode.dev/inside-the-linux-file-system)
