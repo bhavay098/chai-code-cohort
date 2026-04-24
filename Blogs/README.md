@@ -71,3 +71,5 @@
 ## 35. [JavaScript Promises](https://bhavay.hashnode.dev/javascript-promises)
 
 ## 36. [Destructuring in JavaScript](https://bhavay.hashnode.dev/destructuring-in-javascript)
+
+## 37. [Map and Set in JavaScript](https://bhavay.hashnode.dev/map-and-set-in-javascript)
