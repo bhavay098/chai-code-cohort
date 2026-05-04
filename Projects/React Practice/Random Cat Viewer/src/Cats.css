@@ -1,0 +1,101 @@
+/* Global styling */
+body {
+    margin: 0;
+    font-family: "Cinzel", serif;
+    background: radial-gradient(circle at top, #1a1a2e, #0f0f1a);
+    color: #e6e6e6;
+}
+
+/* Container */
+.container {
+    padding: 30px;
+    text-align: center;
+}
+
+/* Button */
+.fetch-btn {
+    padding: 14px 28px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #3a3a5a, #1f1f3a);
+    color: #dcdcdc;
+    cursor: pointer;
+    box-shadow: 0 0 15px rgba(150, 150, 255, 0.3);
+    transition: all 0.3s ease;
+}
+
+.fetch-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(150, 150, 255, 0.6);
+}
+
+.next-btn {
+    margin-top: 25px;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #2b2b4a, #141427);
+    color: #dcdcff;
+    cursor: pointer;
+    box-shadow: 0 0 12px rgba(120, 120, 255, 0.3);
+    transition: all 0.3s ease;
+}
+
+.next-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(120, 120, 255, 0.6);
+}
+
+/* Cards layout */
+.cards-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/* Card */
+.card {
+    max-width: 350px;
+
+}
+
+.card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 0 30px rgba(120, 120, 255, 0.4);
+}
+
+/* Image */
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    filter: brightness(0.85);
+}
+
+/* Content */
+.card-content {
+    padding: 15px;
+    text-align: left;
+}
+
+.card-content h2 {
+    margin: 0 0 10px;
+    font-size: 20px;
+    color: #cfcfff;
+    text-shadow: 0 0 6px rgba(180, 180, 255, 0.5);
+}
+
+.card-content p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #b8b8d9;
+}
+
+.instructions {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #9a9ac8;
+    line-height: 1.4;
+}
