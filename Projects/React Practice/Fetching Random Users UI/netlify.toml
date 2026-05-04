@@ -1,0 +1,4 @@
+[build]
+  base = "Projects/React Practice/Fetching Random Users UI"
+  command = "pnpm build"
+  publish = "Projects/React Practice/Fetching Random Users UI/dist"
