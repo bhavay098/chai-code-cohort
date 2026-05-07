@@ -73,3 +73,5 @@
 ## 36. [Destructuring in JavaScript](https://bhavay.hashnode.dev/destructuring-in-javascript)
 
 ## 37. [Map and Set in JavaScript](https://bhavay.hashnode.dev/map-and-set-in-javascript)
+
+## 38. [Sessions vs JWT vs Cookies](https://bhavay.hashnode.dev/sessions-vs-jwt-vs-cookies)
