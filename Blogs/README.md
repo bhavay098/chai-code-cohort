@@ -77,3 +77,9 @@
 ## 38. [Sessions vs JWT vs Cookies](https://bhavay.hashnode.dev/sessions-vs-jwt-vs-cookies)
 
 ## 39. [Async Code in Node.js](https://bhavay.hashnode.dev/async-code-in-node-js)
+
+## 40. [Storing Uploaded Files and Serving Them in Express](https://bhavay.hashnode.dev/storing-uploaded-files-and-serving-them-in-express)
+
+## 41. [URL Parameters vs Query Strings in Express.js](https://bhavay.hashnode.dev/url-parameters-vs-query-strings-in-express-js)
+
+## 42. [How Node.js Handles Multiple Requests with a Single Thread](https://bhavay.hashnode.dev/how-node-js-handles-multiple-requests-with-a-single-thread)
