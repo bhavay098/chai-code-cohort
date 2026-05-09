@@ -85,3 +85,5 @@
 ## 42. [How Node.js Handles Multiple Requests with a Single Thread](https://bhavay.hashnode.dev/how-node-js-handles-multiple-requests-with-a-single-thread)
 
 ## 43. [Setting Up Your First Node.js Application Step-by-Step](https://bhavay.hashnode.dev/setting-up-your-first-node-js-application-step-by-step)
+
+## 44. [Creating Routes and Handling Requests with Express](https://bhavay.hashnode.dev/creating-routes-and-handling-requests-with-express)
